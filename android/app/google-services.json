@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371488337029",
+    "project_id": "flash-chat-31890",
+    "storage_bucket": "flash-chat-31890.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371488337029:android:bcaf374368aeb5b518cdec",
+        "android_client_info": {
+          "package_name": "com.example.Flash_Chat_Firebase_Cloud_Firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371488337029-g20uhp1mu94vve702f687q3umoc5lubn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV8ytGtOCDCuah9rF75ufKMQgkuQWGPWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371488337029-g20uhp1mu94vve702f687q3umoc5lubn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
